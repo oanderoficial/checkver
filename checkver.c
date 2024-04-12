@@ -38,7 +38,6 @@ void verificarAtualizacoes() {
 void descompactar_kb() {
     char origem_arquivo[100];
     char destino_arquivo[100];
-    char caminho_kb[100];
 
     printf("Digite o nome do arquivo (KB):");
     scanf("%99s", origem_arquivo);
