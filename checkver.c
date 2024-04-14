@@ -2,9 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-#define COR_VERMELHO     12
 #define COR_VERDE        10
-#define COR_AMARELO      14
 #define COR_AZUL         9
 #define COR_BRANCO       15
 
